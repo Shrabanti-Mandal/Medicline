@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "fee": 1000,
+    "name": "SURGICAL SERVICES",
+    "DoctorName": "Abir Hasan",
+
+    "img": "https://image.freepik.com/free-photo/specialist-surgeon-black-woman-doctor-explaining-illness-diagnosis-showing-x-ray-using-tablet-computer-hospital-ward-sick-man-patient-resting-bed-discussing-disease-recovery-treatment_482257-16316.jpg",
+    "About": "Be in the safest hands of our Ophthalmologists as they perfect your vision using top-notch corrective measures",
+
+    "description": " Do you know Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.Heart Disease Diagnosis -The first step is getting a doctors exam. Here's a description of what the doctor will do, 1.Whether you spell it EKG or ECG, it's an electrocardiogram. Learn the basics here.2.There are several variations on the echocardiogram, or echo as doctors call it. Learn about these ultrasound-like tests of the heart -- and find out what to expect -- here."
+  },
+  {
+    "Id": 2,
+    "fee": 1000,
+    "name": "CLINICAL SERVICES",
+    "DoctorName": "Mariya haque",
+    "img": "https://image.freepik.com/free-photo/young-male-psysician-with-patient-measuring-blood-pressure_1303-17877.jpg",
+    "About": "This hospital has the best equipment to give you the clinical service you deserve",
+    "description": "Do you know Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.Heart Disease Diagnosis -The first step is getting a doctors exam. Here's a description of what the doctor will do, 1.Whether you spell it EKG or ECG, it's an electrocardiogram. Learn the basics here.2.There are several variations on the echocardiogram, or echo as doctors call it. Learn about these ultrasound-like tests of the heart -- and find out what to expect -- here."
+  },
+  {
+    "Id": 3,
+    "fee": 1000,
+    "name": "OPTICALS",
+    "DoctorName": "Porna Sen",
+    "img": "https://image.freepik.com/free-psd/top-view-optics-still-life-arrangement-yellow-background_23-2148424928.jpg",
+    "About": "Our Optometrists are here to serve you with the highest standards and quality products",
+    "description": " Do you know Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.Heart Disease Diagnosis -The first step is getting a doctors exam. Here's a description of what the doctor will do, 1.Whether you spell it EKG or ECG, it's an electrocardiogram. Learn the basics here.2.There are several variations on the echocardiogram, or echo as doctors call it. Learn about these ultrasound-like tests of the heart -- and find out what to expect -- here."
+  },
+  {
+    "Id": 4,
+    "fee": 1000,
+    "name": "Covid sector",
+    "DoctorName": "Mohit Hasan",
+    "img": "https://image.freepik.com/free-photo/punching-virus-martial-arts-fighter-protective-mask-gloves_155003-40600.jpg",
+    "About": "COVID-19 significantly impacts health services for noncommunicable diseases ",
+    "description": " Do you know Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.Heart Disease Diagnosis -The first step is getting a doctors exam. Here's a description of what the doctor will do, 1.Whether you spell it EKG or ECG, it's an electrocardiogram. Learn the basics here.2.There are several variations on the echocardiogram, or echo as doctors call it. Learn about these ultrasound-like tests of the heart -- and find out what to expect -- here."
+  },
+  {
+    "Id": 5,
+    "fee": 1000,
+    "name": "Diagnosis & Tests",
+    "DoctorName": "Rokeya Haque",
+    "img": "https://image.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg",
+    "About": "Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.",
+    "description": " Do you know Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.Heart Disease Diagnosis -The first step is getting a doctors exam. Here's a description of what the doctor will do, 1.Whether you spell it EKG or ECG, it's an electrocardiogram. Learn the basics here.2.There are several variations on the echocardiogram, or echo as doctors call it. Learn about these ultrasound-like tests of the heart -- and find out what to expect -- here."
+  },
+  {
+    "Id": 6,
+    "fee": 1000,
+    "name": "Regular Checkup",
+    "DoctorName": "Tasnim Jahan",
+    "img": "https://image.freepik.com/free-photo/close-up-disabled-worker-with-protective-mask-immobilized-wheelchair-working-computer_482257-2233.jpg",
+    "About": "Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.",
+    "description": " Do you know Exactly when do you go from having risk factors to having heart disease? These links take you to information on the tests a doctor uses to diagnose heart disease.Heart Disease Diagnosis -The first step is getting a doctors exam. Here's a description of what the doctor will do, 1.Whether you spell it EKG or ECG, it's an electrocardiogram. Learn the basics here.2.There are several variations on the echocardiogram, or echo as doctors call it. Learn about these ultrasound-like tests of the heart -- and find out what to expect -- here."
+  }
+]

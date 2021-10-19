@@ -1,0 +1,41 @@
+.about-details {
+  padding: 160px;
+  background-image: url("https://img.freepik.com/free-photo/blur-hospital_1203-7972.jpg?size=626&ext=jpg");
+
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.about-heading {
+  padding: 3px;
+  color: rgb(77, 124, 6);
+  background-color: rgba(240, 230, 140, 0.534);
+  padding: 1%;
+}
+.about-us {
+  padding: 5%;
+  color: rgb(3, 29, 112);
+  background-color: rgba(228, 43, 104, 0.425);
+}
+.about {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+@media only screen and (max-width: 688px) {
+  .about {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .about-us {
+    padding-left: 0;
+  }
+}
+@media only screen and (min-width: 689px) and (max-width: 991px) {
+  .about {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .about-us {
+    padding-left: 0;
+  }
+}

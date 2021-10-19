@@ -1,15 +1,14 @@
-Live Site  Link : 
+Live Site  Link :  https://medicline-9caea.web.app
 
 Medicline
 
+# Project Description
 
-=>Medical care has several important functions other than restoring or maintaining health. These other functions are assessment and certification of health status, prognostication, segregation of the ill to limit communication of illness, and helping to cope with the problems of illness--the caring function.
+- This is Health care Website.
+- Here You can see the Our service package and take apointment.
+- You can also Dental care..
+- You can signIn using google and email.
+- Here you can also find Laboratory and diagnostic care.
 
-Our services include:
-1.Mental health care.
-2.Dental care.
-3.Laboratory and diagnostic care.
-4.Pharmaceutical care.
-5.Nutritional support.
-6.Physical and occupational therapy.
+
 
