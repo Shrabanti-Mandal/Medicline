@@ -1,6 +1,6 @@
 # Medicline
 
-Live Link [Health Home](https://medicline-9caea.web.app).
+Live Link [Medicline](https://medicline-9caea.web.app).
 
 
 # Project Description
