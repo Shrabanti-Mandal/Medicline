@@ -27,19 +27,3 @@
   color: #c34a36;
 }
 
-
-/* Make it responsive */
-/* @media only screen and (max-width:688px) {
-   .contact-details{
-     max-width: 100%;
-     padding: 0;
-     word-wrap: break-word;
-   }
-}
-@media only screen and (min-width:689px) and (max-width: 991px){
-  .contact-details{
-    max-width: 100%;
-    padding: 0;
-    word-wrap: break-word;
-  }
-} */
