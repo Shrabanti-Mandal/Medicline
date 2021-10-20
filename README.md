@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-Live Site  Link :  https://medicline-9caea.web.app
-=======
-Live Site  Link :[Medicline] (https://medicline-9caea.web.app/)
->>>>>>> e3c77108a9a11d26013978074c933605029e0eb5
+#Medicline
 
-Medicline
+Live Site Link : [Medicline] https://medicline-9caea.web.app
 
 # Project Description
 
@@ -14,9 +10,8 @@ Medicline
 - You can signIn using google and email.
 - Here you can also find Laboratory and diagnostic care.
 
+# <<<<<<< HEAD
 
-<<<<<<< HEAD
-=======
 Our services include:
 -Mental health care.
 -Dental care.
@@ -24,5 +19,4 @@ Our services include:
 -Pharmaceutical care.
 -Nutritional support.
 
->>>>>>> e3c77108a9a11d26013978074c933605029e0eb5
-
+> > > > > > > e3c77108a9a11d26013978074c933605029e0eb5

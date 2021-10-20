@@ -12,6 +12,7 @@ import useAuth from "../../../hooks/useAuth";
 const auth = getAuth();
 
 const Login = () => {
+  const [user, setUser] = useState({});
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -55,6 +56,7 @@ const Login = () => {
         const user = result.user;
         console.log(user);
         setError("");
+        window.location.reload();
       })
       .catch((error) => {
         setError(error.message);
@@ -64,11 +66,12 @@ const Login = () => {
   const registerNewUser = (email, password) => {
     createUserWithEmailAndPassword(auth, email, password)
       .then((result) => {
-        const user = result.user;
+        setUser(result.user);
         console.log(user);
         setError("");
         verifyEmail();
         setUserName();
+        window.location.reload();
       })
       .catch((error) => {
         setError(error.message);
