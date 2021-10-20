@@ -1,14 +1,18 @@
 .bannerImg {
-  height: 600px;
+  /* height: 600px;
   width: 100%;
-  margin-bottom: 60px;
+  margin-bottom: 60px; */
 }
 .home-img {
-  height: 650px;
-  width: 100%;
+  /* height: 650px; */
+  /* width: 100%; */
 }
 #home h3 {
   background-color: rgba(171, 221, 70, 0.808);
   padding: 2%;
   color: #005249;
+}
+
+.home{
+  overflow: hidden;
 }

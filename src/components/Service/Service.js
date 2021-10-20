@@ -18,11 +18,11 @@ const Service = (props) => {
           <Link
             to={`/details/${Id}`}
           >
-            <button type="button" class="btn btn-success">
+            <button type="button" class="btn btn-success ">
               Take Apointment
             </button>
           </Link>
-          
+         
         </div>
       </div>
     </div>

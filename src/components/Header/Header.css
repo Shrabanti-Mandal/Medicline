@@ -2,3 +2,7 @@
   height: 600px;
   margin-bottom: 60px;
 } */
+.header-body{
+  max-width: 100%;
+  overflow: hidden;
+}

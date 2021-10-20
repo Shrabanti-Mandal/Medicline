@@ -8,7 +8,7 @@ import useAuth from "../../hooks/useAuth";
 const Header = () => {
   const { user, logOut } = useAuth();
   return (
-    <div>
+    <div className="header-body">
       <Navbar bg="dark" variant="dark" collapseOnSelect expand="lg">
         <Container>
           <Navbar.Brand href="#home">Medicline</Navbar.Brand>

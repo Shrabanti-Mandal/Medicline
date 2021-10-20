@@ -1,15 +1,18 @@
-.contact {
-  background-image: url("https://media.istockphoto.com/photos/closeup-image-of-woman-hands-using-smartphone-with-icon-telephone-picture-id1257143766?k=20&m=1257143766&s=612x612&w=0&h=6m-PgdydvDjYF3CTOMcr-4xYTxBANSiUDPRDiBtj2HA=");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  padding: 200px;
+
+.full-body{
+  overflow: hidden;
+}
+.contact-info{
+  padding: 2%;
+
 }
 .contact-details {
   background-image: linear-gradient(#ff9671, #ff6f91);
   color: rgb(255, 255, 255);
-  padding: 2%;
+  margin: 10%;
   border-radius: 10px;
+
+
 }
 
 .moreInfo {
@@ -26,13 +29,17 @@
 
 
 /* Make it responsive */
-@media only screen and (max-width:688px) {
-   .contact{
-     max-height: 100%;
+/* @media only screen and (max-width:688px) {
+   .contact-details{
+     max-width: 100%;
+     padding: 0;
+     word-wrap: break-word;
    }
 }
 @media only screen and (min-width:689px) and (max-width: 991px){
-  .contact{
-    max-height: 100%;
+  .contact-details{
+    max-width: 100%;
+    padding: 0;
+    word-wrap: break-word;
   }
-}
+} */
